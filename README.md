@@ -5,11 +5,11 @@ For use with the manuscript:
 Title:
 Oncogenic rewiring of Class A GPCR signaling pathways within human malignancy using recurrent mutations to cognate motif residues
 Authors:
-Jonathan Gallion*, Sara Wrightb, Theodore Wensela,b, Olivier Lichtargea
+Jonathan Gallion*, Sara Wright&, Theodore Wensel$,&, Olivier Lichtarge$
  
 Author affiliation:
-aProgram in Quantitative and Computational Biosciences
-bDepartment of Biochemistry, Baylor College of Medicine, Houston, TX 77030. 
+$Program in Quantitative and Computational Biosciences
+&Department of Biochemistry, Baylor College of Medicine, Houston, TX 77030. 
 
 Corresponding authors:
 Olivier Lichtarge
@@ -32,4 +32,6 @@ The code pipeline is as follows (note: many of the file locations and output fil
 4)ETEAcompare.py   This python script compares ET and EA distributions of the hyper, hypomutated positions compared to random expectation.
 5)AAtransfrequencies_simpleplot.py   This python script plots the amino acid substitutions at the hyper mutated positions to identify the primary changes.
 6) Gprot_enrichment.py   Tests the hypothesis that mutations may be enriched within specified G-protein pathways.
-7)
+
+
+
