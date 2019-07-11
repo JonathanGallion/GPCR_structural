@@ -40,8 +40,10 @@ This python script compares ET and EA distributions of the hyper, hypomutated po
 
 5)AAtransfrequencies_simpleplot.py   This python script plots the amino acid substitutions at the hyper mutated positions to identify the primary changes.
 
-6) Gprot_enrichment.py   
+6)Gprot_enrichment.py
 Tests the hypothesis that mutations may be enriched within specified G-protein pathways.
+
+
 
 
 
